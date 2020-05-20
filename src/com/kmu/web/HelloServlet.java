@@ -20,7 +20,13 @@ public class HelloServlet {
         System.out.println("在cart分支中修改的代码");
         System.out.println("在cart分支中修改的代码");
         System.out.println("在cart分支中修改的代码");
-        System.out.println("在cart分支中修改的代码");
+        System.out.println("在cart分支中修改的代码1");
+        System.out.println("在cart分支中修改的代码2");
+        System.out.println("在cart分支中修改的代码3");
+        System.out.println("在cart分支中修改的代码4");
+        System.out.println("在cart分支中修改的代码5");
+        System.out.println("在cart分支中修改的代码6");
+        System.out.println("在cart分支中修改的代码7");
         System.out.println("在cart分支中修改的代码");
         System.out.println("在cart分支中修改的代码");
         System.out.println("在cart分支中修改的代码");
